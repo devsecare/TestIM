@@ -292,7 +292,7 @@ class TabNavigationItem {
         ),
         TabNavigationItem(
           page: ImcomboScreen(),
-          title: 'Im Combo',
+          title: 'IM Combo',
           icon: Image.asset(
             im,
             scale: 5,
